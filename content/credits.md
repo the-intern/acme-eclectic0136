@@ -15,7 +15,6 @@ This website uses resources from a variety of places. Here is to all of them:
 * Styled using [Tailwind CSS](https://tailwindcss.com/)
 * Using [Treact UI Kit from Owais Khan](https://owaiskhan.me/post/free-tailwindcss-react-ui-kit)
 * Background based on am image [designed by BiZkettE1 / Freepik](http://www.freepik.com)
-* Early code using [Eclectic](https://github.com/atishay/eclectic-hugo-theme) and [Universal](https://github.com/devcows/hugo-universal-theme)
 * About Us - Font [Cheveux d'ange](http://www.peax-webdesign.com/polices-de-caracteres-gratuites.html) on drawing from [PxHere](https://pxhere.com/de/photo/1606921?utm_content=clipUser&utm_medium=referral&utm_source=pxhere).
 * The text for the news image using font Chomsky Regular by copypaste on [1001fonts](https://www.1001fonts.com/users/copypaste/).
 * Cover Images:
