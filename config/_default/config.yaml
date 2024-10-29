@@ -1,0 +1,7 @@
+baseURL: https://example.com 
+languageCode: en-us
+title: Acme Corporation
+theme: github.com/the-intern/Eclectic0136
+enableEmoji: true
+publishDir: public
+enableGitInfo: true
